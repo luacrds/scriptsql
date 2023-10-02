@@ -1,1 +1,1 @@
-# scriptsql
+# postgresql
